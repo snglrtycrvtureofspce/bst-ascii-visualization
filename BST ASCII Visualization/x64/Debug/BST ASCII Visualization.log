@@ -1,0 +1,11 @@
+﻿  bst.cpp
+  node.cpp
+  source.cpp
+C:\Users\asp1r\Downloads\bst-ascii-visualization-master\BST ASCII Visualization\visualizer.cpp(33,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\asp1r\Downloads\bst-ascii-visualization-master\BST ASCII Visualization\visualizer.cpp(7): message : во время компиляции функции-члена класс шаблон "visualizer<int>::visualizer(bst<int>,int,int)"
+C:\Users\asp1r\Downloads\bst-ascii-visualization-master\BST ASCII Visualization\source.cpp(24): message : выполняется компиляция ссылки на экземпляр шаблон функции "visualizer<int>::visualizer(bst<int>,int,int)"
+C:\Users\asp1r\Downloads\bst-ascii-visualization-master\BST ASCII Visualization\source.cpp(24): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "visualizer<int>"
+C:\Users\asp1r\Downloads\bst-ascii-visualization-master\BST ASCII Visualization\visualizer.cpp(33,1): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  visualizer.cpp
+  Создание кода...
+  BST ASCII Visualization.vcxproj -> C:\Users\asp1r\Downloads\bst-ascii-visualization-master\x64\Debug\BST ASCII Visualization.exe
